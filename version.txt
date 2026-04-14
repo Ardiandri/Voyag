@@ -1,6 +1,1 @@
-航右 7.0
-HZSIBS
-IKDHS
-BWJALA
-7393
-GDJS
+7.1.0 航右
