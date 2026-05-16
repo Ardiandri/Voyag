@@ -1,5 +1,1 @@
-2.0 航右
-vsjs
-hsjs
-hsjs
-hdj
+ 航右 2.0
