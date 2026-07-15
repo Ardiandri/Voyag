@@ -1,5 +1,1 @@
-1.1.0 航右
-VSJS
-HDJD
-BDNS
-JDJD
+航右 1.0
